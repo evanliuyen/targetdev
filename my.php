@@ -1,6 +1,6 @@
 <html>
  <head>
- 
+   <script src="https://assets.adobedtm.com/a0033cf79b24/547ccb254c0a/launch-2a6413c30799-development.min.js" async></script>
   <title>PHP Test</title>
     <link rel="canonical" href="https://getbootstrap.com/docs/4.4/examples/product/">
 
@@ -26,7 +26,6 @@
   </style>
   <link href="product.css" rel="stylesheet">  
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-  <script src="https://assets.adobedtm.com/a0033cf79b24/547ccb254c0a/launch-2a6413c30799-development.min.js" async></script>
  </head>
  <body>
   <!-- End Google Tag Manager (noscript) -->
