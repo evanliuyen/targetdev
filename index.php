@@ -1,1 +1,1 @@
-<?php echo("dev.html"); ?>
+<?php include_once("dev.html"); ?>
