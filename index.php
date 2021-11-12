@@ -24,10 +24,11 @@
       }
     }
   </style>
+  <link href="product.css" rel="stylesheet">  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="https://assets.adobedtm.com/a0033cf79b24/547ccb254c0a/launch-2a6413c30799-development.min.js" async></script>
  </head>
  <body>
-  <?php echo '<p>Hello World</p>'; ?> 
   <!-- End Google Tag Manager (noscript) -->
   <nav class="site-header sticky-top py-1">
     <div class="container d-flex flex-column flex-md-row justify-content-between">
