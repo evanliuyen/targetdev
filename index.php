@@ -199,9 +199,4 @@
     crossorigin="anonymous"></script>
 
  </body>
- <script type="text/javascript" >
-
-       alert(jstext);
-
-</script>
 </html>

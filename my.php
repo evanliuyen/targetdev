@@ -198,9 +198,4 @@
     crossorigin="anonymous"></script>
 
  </body>
- <script type="text/javascript" >
-
-       dispatchEvent(new Event('load'));
-
-</script>
 </html>
