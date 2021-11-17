@@ -1,3 +1,4 @@
+<!doctype html>
 <html>
  <head>
    <script src="https://assets.adobedtm.com/a0033cf79b24/547ccb254c0a/launch-2a6413c30799-development.min.js" async></script>
